@@ -18,6 +18,6 @@ I'm a passionate software Engineer. I love creating elegant solutions to complex
 <hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">LinkedIn</a> •
-  <a href="https://twitter.com/yourusername">Twitter</a>
+  <a href="https://www.linkedin.com/in/mohamed-khalil-elloumi-76601614b/">LinkedIn</a> •
+  <a href="https://twitter.com/MKelloumi">Twitter</a>
 </p>
