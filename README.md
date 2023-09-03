@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hi there, It's-a-me Khalil(not Mario) 👋
+# Hey there, it's Khalil 👋
 
 <!-- Short Introduction -->
 I'm a passionate software Engineer. I love creating elegant solutions to complex problems and learning about new technologies.
