@@ -4,11 +4,6 @@
 <!-- Short Introduction -->
 I'm a passionate software Engineer. I love creating elegant solutions to complex problems and learning about new technologies.
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedkhalil-elloumi&count_private=true&show_icons=true&theme=dark)
-
 <!-- Footer -->
 <hr>
 
